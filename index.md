@@ -1,10 +1,25 @@
 # David WF Chau
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Environmental Sciences/ GIS/ Data Visualization/ Education_ <br>
+I am a high school Geography teacher with a passion for environmental sciences. I obtained my MSc. in Environmental Sciences from The Hong Kong University of Science and Technology with a 4.0/4.3 GPA, and I performed excellently in courses on Physical Environment, GIS, and Data Science. For my graduate project, I developed a multipurpose raster calculator that provides an efficient and user-friendly solution for spatial data analysis in Hong Kong.
 
-[Email: chauwangfung@gmail.com](chauwangfung@gmail.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍🎓 Education
+
+**MSc. in Environmental Science	** The Hong Kong University of Science and Technology <br>
+Hong Kong _(Sept 2021 - Dec 2023)_ <br>
+
+**Bachelor of Arts** in Journalism and Media Studies<br>
+[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+
+**Washington Semester Program** for Journalism and New Media<br>
+[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+
+**International Exchange** studying Political Science<br>
+[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+
+## 👩🏼‍💻 Education
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
