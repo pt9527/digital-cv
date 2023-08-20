@@ -15,7 +15,7 @@ The Hong Kong University of Science and Technology, Hong Kong
 - Recipient of the [Targeted Taught Postgraduate Programmes Fellowships Scheme](https://www.ugc.edu.hk/eng/ugc/activity/targeted_postgraduate_scheme.html) offered by the Hong Kong Government  
   Award: HK$120,000 / USD$15,600
 - Specialized Coursework include: Introduction to Oceanography (A), Environmental Data Analysis (A), GIS for Environmental Professionals (A-)
-- A+ in the graduate project: Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis (see the Research Experience section below for details).
+- A+ in the graduate project: [Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis](#raster_calculator)
 
 
 **Postgraduate Certificate in Education (Major: Geography)**  - _(Sept 2019 - June 2021)_  
@@ -37,7 +37,7 @@ University of Leeds, the United Kingdom
 -	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 ## 🔬 Projects & Research Experiences
-
+<a id="raster_calculator"></a>.
 **Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis** - MSc. Graduate Project _(2022-2023)_ <br>
 The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy W M CHAN](https://envr.ust.hk/our-division/people/faculty-staff/jimmy.html)
 
