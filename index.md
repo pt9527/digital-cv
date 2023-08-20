@@ -37,37 +37,32 @@ University of Leeds, the United Kingdom
 -	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 ## 🔬 Projects & Research Experiences
-<a id="raster_calculator"></a>.
+<a id="raster_calculator"></a>
 **Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis** - MSc. Graduate Project _(2022-2023)_ <br>
-The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy W M CHAN](https://envr.ust.hk/our-division/people/faculty-staff/jimmy.html)
+_The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy W M CHAN](https://envr.ust.hk/our-division/people/faculty-staff/jimmy.html)_
 
-No-code platform that enables enable environmental professionals to do raster calculations.
-- Developed a versatile web-based raster calculator using Python and GIS tools.
-- Enabled efficient spatial data analysis for the Hong Kong and Pearl River Delta region.
-- Integrated multiple default layers for diverse environmental tasks, with user-customizable features.
-  
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+- Developed a versatile no-code web-based raster calculator that enables environmental professionals to perform raster calculations.
+- Facilitated efficient spatial data analysis and visualization for the Hong Kong and Pearl River Delta region, incorporating over 10 default layers.
+- Enabled user-customizable features, including graph downloads, data exports, and the addition of new raster datasets.
+- Technologies Used: Python, ArcGIS, HTML, CSS
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+[**Defending Stability under Threat: Sensitive Periods and the Repression of Protest in Urban China**](https://www.tandfonline.com/doi/full/10.1080/10670564.2020.1852741) - Research Assistant _(2016-2018)_ <br>
+ _The Chinese University of Hong Kong, supervised by [Prof. Jimmy W M CHAN](https://sites.google.com/site/hcsteinhardt/home?authuser=0)_
+-	Employed verbal analysis to quantify qualitative data of the protests in China retrieved from the internet
+-	Reviewed and analysed >1000 protests in China and code them into quantitative data with an accuracy rate of>95%
+- Key achievement: Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
+
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+**A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong** - BSSc. Final Year Thesis _(2018)_ <br>
+ _The Chinese University of Hong Kong, supervised by [Prof. SHEN Jianfa](https://www.grm.cuhk.edu.hk/en/profile/jshen/)_
+- Conducted quantitative investigation into the impact of unemployment and economic factors on fertility in 16 East Asian countries, revealing a strong connection between unemployment and fertility rates in developed East Asian nations.
+- Validated the economic influence on fertility decisions through interviews with 100 Hong Kong parents
+- Research Skills Used: SPSS, Regression Analysis, Semi-structured Interviews
+
+
+<br><br>
 
 **Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
