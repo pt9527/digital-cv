@@ -1,15 +1,31 @@
 # David WF Chau
 
-_Environmental Sciences/ GIS/ Data Visualization/ Education_ <br>
-I am a high school Geography teacher with a passion for environmental sciences. I obtained my MSc. in Environmental Sciences from The Hong Kong University of Science and Technology with a 4.0/4.3 GPA, and I performed excellently in courses on Physical Environment, GIS, and Data Science. For my graduate project, I developed a multipurpose raster calculator that provides an efficient and user-friendly solution for spatial data analysis in Hong Kong.
+_Environmental Sciences/ GIS/ Data Visualization/ Education_ <br><br>
+Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Sciences from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science.
 
 [E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
 
 ## 👩🏼‍🎓 Education
 
-**MSc. in Environmental Science and Management** <br>
-The Hong Kong University of Science and Technology <br>
-Hong Kong _(Sept 2021 - Dec 2023)_ <br>
+**MSc. in Environmental Science and Management** - _(Sept 2021 - Dec 2023)_  
+The Hong Kong University of Science and Technology  
+GPA: 4.0/4.3
+
+## Key Highlights
+
+- Recipient of the **Targeted Taught Postgraduate Programmes Fellowships Scheme** offered by the Hong Kong Government  
+  Award: HK$120,000 / USD$15,600
+
+## Specialized Coursework
+
+- Physical Environment
+- Geographic Information Systems (GIS)
+- Data Science
+
+## Graduate Project
+
+Developed a **Multipurpose Raster Calculator** designed to streamline spatial data analysis in the context of Hong Kong. This innovative solution enhances efficiency and user-friendliness, addressing complex geographical challenges through cutting-edge technology.
+
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
 [Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
