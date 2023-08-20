@@ -1,7 +1,8 @@
 # David WF Chau
 
-**_Environmental Sciences/ GIS/ Data Visualization/ Education_** <br>
-_Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
+**Environmental Sciences/ GIS/ Data Visualization/ Education** <br>
+
+_Hello, Welcome to my webpage, I am David Chau, a passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
 
 [E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
 
@@ -35,11 +36,11 @@ University of Leeds, the United Kingdom
 -	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 **Other Audited Courses**  
-CS50's Introduction to Artificial Intelligence with Python (online), Harvard University |   _2023_
-Geology principles and practice (face to face), The University of Hong Kong |   _2021_
-CS50: Introduction to Computer Science (online), Harvard University |   _2020_
+CS50's Introduction to Artificial Intelligence with Python (online), Harvard University |   _2023_ <br>
+Geology principles and practice (face to face), The University of Hong Kong |   _2021_ <br>
+CS50: Introduction to Computer Science (online), Harvard University |   _2020_ <br>
 
-
+<br>
 ## 🔬 Projects & Research Experiences
 <a id="raster_calculator"></a>
 **Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis** - MSc. Graduate Project _(2022-2023)_ <br>
@@ -48,14 +49,14 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 - Developed a versatile no-code web-based raster calculator that enables environmental professionals to perform raster calculations.
 - Facilitated efficient spatial data analysis and visualization for the Hong Kong and Pearl River Delta region, incorporating over 10 default layers.
 - Enabled user-customizable features, including graph downloads, data exports, and the addition of new raster datasets.
-**Technologies Used:** Python, ArcGIS, HTML, CSS
+- **Technologies Used:** Python, ArcGIS, HTML, CSS
 <br>
 
 [**Defending Stability under Threat: Sensitive Periods and the Repression of Protest in Urban China**](https://www.tandfonline.com/doi/full/10.1080/10670564.2020.1852741) - Research Assistant _(2016-2018)_ <br>
  _The Chinese University of Hong Kong, supervised by [Prof. H. Christoph Steinhardt](https://sites.google.com/site/hcsteinhardt/home?authuser=0)_
 -	Employed verbal analysis to quantify qualitative data of the protests in China retrieved from the internet
 -	Reviewed and analysed >1000 protests in China and code them into quantitative data with an accuracy rate of>95%
-- **Key achievement:** Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
+- **Key Achievements:** Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
 <br>
 
 <a id="FYT"></a>
@@ -68,90 +69,31 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 <br>
 ## 💼 Working Experience
 
-**High School Geography Teacher in ([St. Paul's Convent School](https://www.spcs.edu.hk/index00.htm)** - _(2023 - Present)_ <br>
+**High School Geography Teacher in [St. Paul's Convent School](https://www.spcs.edu.hk/index00.htm)** - _(2023 - Present)_ <br>
 - Teaching Geography (both GCSE and local HKDSE curriculum) at one of the most prestigious private schools in Hong Kong.
 
-**High School Geography Teacher in ([St. Mary's Canossian College](https://smcc.hk/))** -  _(2021 - 2023)_ <br>
+**High School Geography Teacher in [St. Mary's Canossian College](https://smcc.hk/)** -  _(2021 - 2023)_ <br>
 - Teaching Geography at a top-tier public school in Hong Kong.
 - Committed to integrating GIS into education, mentored students in various GIS competitions and projects, including [The Thirty Years War (1618-1648)]([https://storymaps.arcgis.com/stories/406d8b750bec4bd8ad233184d01a976b])(1st runner-up in Esri China (HK) STEAM Cup Competition), [Where should we go? - an escape route for people in Hong Kong during future wars]([https://storymaps.arcgis.com/stories/20f1bd6fa5a349e9863adb25b2872e68])(2nd runner-up in Esri China (HK) STEAM Cup Competition)
-
+<br>
 ## 📌 Volunteering
 
-**([Councillor in Young Members' Council - Chinese YMCA of Hong Kong](https://ymc.ymca.org.hk/en))**  _(2019-2022)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
+**[Councillor in Young Members' Council](https://ymc.ymca.org.hk/en)** - Chinese YMCA of Hong Kong  _(2019-2022)_<br>
+An advocacy council dedicated to making changes in social policies and coordinating youth-oriented social services:
+- Organized social services including activities such as running a rescued dog centre, raising mental health awareness, and organizing a beach clean-up event.
+- Contributed to writing an advisory report for the government regarding its role in facilitating youth career development.
   <br><br>
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+**English**: Proficient (TOEFL : 106/120 ~5* in DSE) <br>
+**Chinese**: Native
+
+## 💬 Languages
 <br><br>
 
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+## 🧑‍💻 Programming skills
+**Python**: 🔷🔷🔷🔷Proficient
+**ArcGIS**: 🔷🔷🔷🔷Proficient
+**HTML & CSS**: 🔷🔷🔷Intermediate
+**SQL**: 🔷🔷🔷Intermediate
