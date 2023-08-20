@@ -1,41 +1,51 @@
 # David WF Chau
 
 _Environmental Sciences/ GIS/ Data Visualization/ Education_ <br><br>
-Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Sciences from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science.
+Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science.
 
 [E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
 
 ## 👩🏼‍🎓 Education
 
 **MSc. in Environmental Science and Management** - _(Sept 2021 - Dec 2023)_  
-The Hong Kong University of Science and Technology  
+The Hong Kong University of Science and Technology, Hong Kong  
 
 <u>Key Highlights</u>
-- GPA: 4.0/4.3 (Top 5% of the cohoret)
-- Recipient of the **Targeted Taught Postgraduate Programmes Fellowships Scheme** offered by the Hong Kong Government  
+- GPA: 4.0/4.3 (Top 5% of the cohort)
+- Recipient of the [Targeted Taught Postgraduate Programmes Fellowships Scheme](https://www.ugc.edu.hk/eng/ugc/activity/targeted_postgraduate_scheme.html) offered by the Hong Kong Government  
   Award: HK$120,000 / USD$15,600
 - Specialized Coursework include: Introduction to Oceanography (A), Environmental Data Analysis (A), GIS for Environmental Professionals (A-)
-
-<u>Graduate Project:</u>
-Developed a Python-based Multipurpose Raster Calculator, designed to efficiently analyze environmental data by integrating default layers and common raster calculation functions, catering to diverse tasks in the Hong Kong and Pearl River Delta region. (A+)
+- A+ in the graduate project: Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis (see the Research Experience section below for details).
 
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**Postgraduate Certificate in Education (Major: Geography)**  - _(Sept 2019 - June 2021)_  
+The Chinese University of Hong Kong, Hong Kong  
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+<u>Key Highlights</u>
+- GPA: 3.4/4.0 (Top 15% of the cohort)
+- Attained exceptional feedback during my teaching practice; the observer noted my impactful teaching style and effective classroom management.
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**BSSc in Geography and Resource Management**  - _(Sept 2014 - June 2018)_  
+The Chinese University of Hong Kong, Hong Kong  
+<u>Key Highlights</u>
+- Second Class Upper, GPA: 3.6/4.0 in the final year
+- A- in the final year thesis: A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong(see the Research Experience section below for details).
 
-## 👩🏼‍💻 Education
+**Semester-long International Exchange**  - _(Jan 2017 - June 2017)_  
+University of Leeds, the United Kingdom  
+<u>Key Highlights</u>
+-	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
+## 🔬 Projects & Research Experiences
+
+**Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis** - MSc. Graduate Project _(2022-2023)_ <br>
+The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy W M CHAN](https://envr.ust.hk/our-division/people/faculty-staff/jimmy.html)
+
+No-code platform that enables enable environmental professionals to do raster calculations.
+- Developed a versatile web-based raster calculator using Python and GIS tools.
+- Enabled efficient spatial data analysis for the Hong Kong and Pearl River Delta region.
+- Integrated multiple default layers for diverse environmental tasks, with user-customizable features.
+  
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 <br><br>
 
