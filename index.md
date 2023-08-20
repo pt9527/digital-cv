@@ -79,6 +79,7 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 - Teaching Geography at a top-tier public school in Hong Kong.
 - Committed to integrating GIS into education, mentored students in various GIS competitions and projects, including [The Thirty Years War (1618-1648)]([https://storymaps.arcgis.com/stories/406d8b750bec4bd8ad233184d01a976b])(1st runner-up in Esri China (HK) STEAM Cup Competition), [Where should we go? - an escape route for people in Hong Kong during future wars]([https://storymaps.arcgis.com/stories/20f1bd6fa5a349e9863adb25b2872e68])(2nd runner-up in Esri China (HK) STEAM Cup Competition)
 <br>
+
 ## 📌 Volunteering
 
 **[Councillor in Young Members' Council](https://ymc.ymca.org.hk/en)** - Chinese YMCA of Hong Kong  _(2019-2022)_<br>
