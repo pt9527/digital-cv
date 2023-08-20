@@ -10,12 +10,12 @@ Passionate high school Geography teacher with a strong commitment to environment
 **MSc. in Environmental Science and Management** - _(Sept 2021 - Dec 2023)_  
 The Hong Kong University of Science and Technology, Hong Kong  
 
-<u>Key Highlights</u>
 - GPA: 4.0/4.3 (Top 5% of the cohort)
 - Recipient of the [Targeted Taught Postgraduate Programmes Fellowships Scheme](https://www.ugc.edu.hk/eng/ugc/activity/targeted_postgraduate_scheme.html) offered by the Hong Kong Government  
   Award: HK$120,000 / USD$15,600
-- Specialized Coursework include: Introduction to Oceanography (A), Environmental Data Analysis (A), GIS for Environmental Professionals (A-)
 - A+ in the graduate project: [Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis](#raster_calculator)
+- Specialized Coursework includes: Introduction to Oceanography (A), Environmental Data Analysis (A), GIS for Environmental Professionals (A-)
+
 
 
 **Postgraduate Certificate in Education (Major: Geography)**  - _(Sept 2019 - June 2021)_  
@@ -27,12 +27,20 @@ The Chinese University of Hong Kong, Hong Kong
 
 **BSSc in Geography and Resource Management**  - _(Sept 2014 - June 2018)_  
 The Chinese University of Hong Kong, Hong Kong  
+
 <u>Key Highlights</u>
 - Second Class Upper, GPA: 3.6/4.0 in the final year
-- A- in the final year thesis: A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong(see the Research Experience section below for details).
+- A- in the final year thesis: [A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong](#FYT)
 
 **Semester-long International Exchange**  - _(Jan 2017 - June 2017)_  
 University of Leeds, the United Kingdom  
+
+**Other Audited Courses**  
+CS50's Introduction to Artificial Intelligence with Python (online)  | Harvard University  _2023_
+Geology principles and practice (face to face) | The University of Hong Kong  _2021_
+CS50: Introduction to Computer Science (online) | Harvard University  _2020_
+
+
 <u>Key Highlights</u>
 -	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
@@ -54,7 +62,7 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 - Key achievement: Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
 
 <br><br>
-
+<a id="FYT"></a>
 **A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong** - BSSc. Final Year Thesis _(2018)_ <br>
  _The Chinese University of Hong Kong, supervised by [Prof. SHEN Jianfa](https://www.grm.cuhk.edu.hk/en/profile/jshen/)_
 - Conducted quantitative investigation into the impact of unemployment and economic factors on fertility in 16 East Asian countries, revealing a strong connection between unemployment and fertility rates in developed East Asian nations.
