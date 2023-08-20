@@ -21,28 +21,24 @@ The Hong Kong University of Science and Technology, Hong Kong
 **Postgraduate Certificate in Education (Major: Geography)**  - _(Sept 2019 - June 2021)_  
 The Chinese University of Hong Kong, Hong Kong  
 
-<u>Key Highlights</u>
 - GPA: 3.4/4.0 (Top 15% of the cohort)
 - Attained exceptional feedback during my teaching practice; the observer noted my impactful teaching style and effective classroom management.
 
 **BSSc in Geography and Resource Management**  - _(Sept 2014 - June 2018)_  
 The Chinese University of Hong Kong, Hong Kong  
 
-<u>Key Highlights</u>
 - Second Class Upper, GPA: 3.6/4.0 in the final year
 - A- in the final year thesis: [A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong](#FYT)
 
 **Semester-long International Exchange**  - _(Jan 2017 - June 2017)_  
 University of Leeds, the United Kingdom  
+-	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 **Other Audited Courses**  
-CS50's Introduction to Artificial Intelligence with Python (online)  | Harvard University  _2023_
-Geology principles and practice (face to face) | The University of Hong Kong  _2021_
-CS50: Introduction to Computer Science (online) | Harvard University  _2020_
+- CS50's Introduction to Artificial Intelligence with Python (online)  | Harvard University  _2023_
+- Geology principles and practice (face to face) | The University of Hong Kong  _2021_
+- CS50: Introduction to Computer Science (online) | Harvard University  _2020_
 
-
-<u>Key Highlights</u>
--	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 ## 🔬 Projects & Research Experiences
 <a id="raster_calculator"></a>
@@ -52,82 +48,35 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 - Developed a versatile no-code web-based raster calculator that enables environmental professionals to perform raster calculations.
 - Facilitated efficient spatial data analysis and visualization for the Hong Kong and Pearl River Delta region, incorporating over 10 default layers.
 - Enabled user-customizable features, including graph downloads, data exports, and the addition of new raster datasets.
-- Technologies Used: Python, ArcGIS, HTML, CSS
-<br><br>
+- **Technologies Used:** Python, ArcGIS, HTML, CSS
+<br>
 
 [**Defending Stability under Threat: Sensitive Periods and the Repression of Protest in Urban China**](https://www.tandfonline.com/doi/full/10.1080/10670564.2020.1852741) - Research Assistant _(2016-2018)_ <br>
- _The Chinese University of Hong Kong, supervised by [Prof. Jimmy W M CHAN](https://sites.google.com/site/hcsteinhardt/home?authuser=0)_
+ _The Chinese University of Hong Kong, supervised by [Prof. H. Christoph Steinhardt](https://sites.google.com/site/hcsteinhardt/home?authuser=0)_
 -	Employed verbal analysis to quantify qualitative data of the protests in China retrieved from the internet
 -	Reviewed and analysed >1000 protests in China and code them into quantitative data with an accuracy rate of>95%
-- Key achievement: Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
-
-<br><br>
+- **Key achievement:** Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
+<br>
 <a id="FYT"></a>
 **A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong** - BSSc. Final Year Thesis _(2018)_ <br>
  _The Chinese University of Hong Kong, supervised by [Prof. SHEN Jianfa](https://www.grm.cuhk.edu.hk/en/profile/jshen/)_
-- Conducted quantitative investigation into the impact of unemployment and economic factors on fertility in 16 East Asian countries, revealing a strong connection between unemployment and fertility rates in developed East Asian nations.
+- Conducted a quantitative investigation revealing a strong correlation between unemployment and fertility rates in developed East Asian nations
 - Validated the economic influence on fertility decisions through interviews with 100 Hong Kong parents
-- Research Skills Used: SPSS, Regression Analysis, Semi-structured Interviews
+- **Research Skills Used:** SPSS, Regression Analysis, Semi-structured Interviews
 
+<br>
+## 💼 Working Experience
 
-<br><br>
+**High School Geography Teacher in ([St. Paul's Convent School](https://www.spcs.edu.hk/index00.htm)** - _(2023 - Present)_ <br>
+- Teaching Geography (both GCSE and local HKDSE curriculum) at one of the most prestigious private schools in Hong Kong.
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
-
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
-<br><br>
-
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
+**High School Geography Teacher in ([St. Mary's Canossian College](https://smcc.hk/))** -  _(2021 - 2023)_ <br>
+- Teaching Geography at a top-tier public school in Hong Kong.
+- Committed to integrating GIS into education, mentored students in various GIS competitions and projects, including [The Thirty Years War (1618-1648)]([https://storymaps.arcgis.com/stories/406d8b750bec4bd8ad233184d01a976b])(1st runner-up in Esri China (HK) STEAM Cup Competition), [Where should we go? - an escape route for people in Hong Kong during future wars]([https://storymaps.arcgis.com/stories/20f1bd6fa5a349e9863adb25b2872e68])(2nd runner-up in Esri China (HK) STEAM Cup Competition)
 
 ## 📌 Volunteering
 
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
+**([Councillor in Young Members' Council - Chinese YMCA of Hong Kong](https://ymc.ymca.org.hk/en))**  _(2019-2022)_<br>
 Technology conference focused on documentation systems, tech writing theory, and information delivery.
   - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
   - Introduced speakers and faciliated Q&A sessions
