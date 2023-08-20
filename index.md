@@ -7,7 +7,8 @@ I am a high school Geography teacher with a passion for environmental sciences. 
 
 ## 👩🏼‍🎓 Education
 
-**MSc. in Environmental Science	** The Hong Kong University of Science and Technology <br>
+**MSc. in Environmental Science and Management** <br>
+The Hong Kong University of Science and Technology <br>
 Hong Kong _(Sept 2021 - Dec 2023)_ <br>
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
