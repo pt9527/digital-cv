@@ -9,22 +9,15 @@ Passionate high school Geography teacher with a strong commitment to environment
 
 **MSc. in Environmental Science and Management** - _(Sept 2021 - Dec 2023)_  
 The Hong Kong University of Science and Technology  
-GPA: 4.0/4.3
 
-## Key Highlights
-
+<u>Key Highlights</u>
+- GPA: 4.0/4.3 (Top 5% of the cohoret)
 - Recipient of the **Targeted Taught Postgraduate Programmes Fellowships Scheme** offered by the Hong Kong Government  
   Award: HK$120,000 / USD$15,600
+- Specialized Coursework include: Introduction to Oceanography (A), Environmental Data Analysis (A), GIS for Environmental Professionals (A-)
 
-## Specialized Coursework
-
-- Physical Environment
-- Geographic Information Systems (GIS)
-- Data Science
-
-## Graduate Project
-
-Developed a **Multipurpose Raster Calculator** designed to streamline spatial data analysis in the context of Hong Kong. This innovative solution enhances efficiency and user-friendliness, addressing complex geographical challenges through cutting-edge technology.
+<u>Graduate Project:</u>
+Developed a Python-based Multipurpose Raster Calculator, designed to efficiently analyze environmental data by integrating default layers and common raster calculation functions, catering to diverse tasks in the Hong Kong and Pearl River Delta region. (A+)
 
 
 **Bachelor of Arts** in Journalism and Media Studies<br>
