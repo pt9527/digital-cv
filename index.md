@@ -1,7 +1,7 @@
 # David WF Chau
 
-_Environmental Sciences/ GIS/ Data Visualization/ Education_ <br><br>
-Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science.
+**_Environmental Sciences/ GIS/ Data Visualization/ Education_** <br>
+_Passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
 
 [E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
 
@@ -35,9 +35,9 @@ University of Leeds, the United Kingdom
 -	Awarded Yasumoto International Exchange Scholarship and Reaching Out Award by the Hong Kong government
 
 **Other Audited Courses**  
-- CS50's Introduction to Artificial Intelligence with Python (online)  | Harvard University  _2023_
-- Geology principles and practice (face to face) | The University of Hong Kong  _2021_
-- CS50: Introduction to Computer Science (online) | Harvard University  _2020_
+CS50's Introduction to Artificial Intelligence with Python (online), Harvard University |   _2023_
+Geology principles and practice (face to face), The University of Hong Kong |   _2021_
+CS50: Introduction to Computer Science (online), Harvard University |   _2020_
 
 
 ## 🔬 Projects & Research Experiences
@@ -48,7 +48,7 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 - Developed a versatile no-code web-based raster calculator that enables environmental professionals to perform raster calculations.
 - Facilitated efficient spatial data analysis and visualization for the Hong Kong and Pearl River Delta region, incorporating over 10 default layers.
 - Enabled user-customizable features, including graph downloads, data exports, and the addition of new raster datasets.
-- **Technologies Used:** Python, ArcGIS, HTML, CSS
+**Technologies Used:** Python, ArcGIS, HTML, CSS
 <br>
 
 [**Defending Stability under Threat: Sensitive Periods and the Repression of Protest in Urban China**](https://www.tandfonline.com/doi/full/10.1080/10670564.2020.1852741) - Research Assistant _(2016-2018)_ <br>
@@ -57,6 +57,7 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 -	Reviewed and analysed >1000 protests in China and code them into quantitative data with an accuracy rate of>95%
 - **Key achievement:** Introduced a new Excel macros programme to automatically select and analyse the verbal data for further manual review, the efficiency of data processing increased by 50%
 <br>
+
 <a id="FYT"></a>
 **A Study on Economic Recession and Fertility in East Asia 1995-2015 and a Case Study of Hong Kong** - BSSc. Final Year Thesis _(2018)_ <br>
  _The Chinese University of Hong Kong, supervised by [Prof. SHEN Jianfa](https://www.grm.cuhk.edu.hk/en/profile/jshen/)_
