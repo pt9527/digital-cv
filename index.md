@@ -73,11 +73,11 @@ _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy 
 ## 💼 Working Experience
 
 **High School Geography Teacher in [St. Paul's Convent School](https://www.spcs.edu.hk/index00.htm)** - _(2023 - Present)_ <br>
-- Teaching Geography (both GCSE and local HKDSE curriculum) at one of the most prestigious private schools in Hong Kong.
+- Teaching Geography (both iGCSE and local HKDSE curriculum) at one of the most prestigious private schools in Hong Kong.
 
 **High School Geography Teacher in [St. Mary's Canossian College](https://smcc.hk/)** -  _(2021 - 2023)_ <br>
 - Teaching Geography at a top-tier public school in Hong Kong.
-- Committed to integrating GIS into education, mentored students in various GIS competitions and projects, including [The Thirty Years War (1618-1648)]([https://storymaps.arcgis.com/stories/406d8b750bec4bd8ad233184d01a976b])(1st runner-up in Esri China (HK) STEAM Cup Competition), [Where should we go? - an escape route for people in Hong Kong during future wars]([https://storymaps.arcgis.com/stories/20f1bd6fa5a349e9863adb25b2872e68])(2nd runner-up in Esri China (HK) STEAM Cup Competition)
+- Committed to integrating GIS into education, mentored students in various GIS competitions and projects, including [The Thirty Years War (1618-1648)]([https://storymaps.arcgis.com/stories/406d8b750bec4bd8ad233184d01a976b])(1st runner-up in Esri China (HK) STEAM Cup Competition), [Where should we go? - an escape route for people in Hong Kong during future wars]([https://storymaps.arcgis.com/stories/20f1bd6fa5a349e9863adb25b2872e68])(2nd runner-up in [CSDI Awards](https://csdigeolab.gov.hk/en/upcoming-events/csdi-awards-2023))
 <br>
 
 ## 📌 Volunteering
@@ -90,14 +90,15 @@ An advocacy council dedicated to making changes in social policies and coordinat
 
 ## 💬 Languages
 
-**English**: Proficient (TOEFL : 106/120 ~5* in DSE) <br>
-**Chinese**: Native
+**English**: Proficient (TOEFL : 106/120) <br>
+**Chinese**: Native in both Cantonese and Mandarin
 
-## 💬 Languages
 <br><br>
 
 ## 🧑‍💻 Programming skills
-**Python**: 🔷🔷🔷🔷Proficient
-**ArcGIS**: 🔷🔷🔷🔷Proficient
-**HTML & CSS**: 🔷🔷🔷Intermediate
-**SQL**: 🔷🔷🔷Intermediate
+**Python**: 🔷🔷🔷🔷Proficient<br>
+**ArcGIS**: 🔷🔷🔷🔷Proficient<br>
+**HTML & CSS**: 🔷🔷🔷Intermediate<br>
+**SQL**: 🔷🔷🔷Intermediate<br>
+
+<br><br>
