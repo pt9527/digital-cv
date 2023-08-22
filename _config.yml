@@ -1,6 +1,6 @@
-title: 
+title: Welcome
 logo: /assets/img/logo.png
 description: Photo taken on the top of Mt. Fuji (2023)
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
