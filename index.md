@@ -2,16 +2,16 @@
 
 **Environmental Sciences/ GIS/ Data Visualization/ Education** <br>
 
-_Hello, Welcome to my webpage, I am David Chau, a passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 4.0/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
+_Hello, Welcome to my webpage, I am David Chau, a passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 3.84/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
 
-[E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) / [GitHub](https://github.com/pt9527/) 
+[E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) 
 
 ## 👩🏼‍🎓 Education
 
 **MSc. in Environmental Science and Management** - _(Sept 2021 - Dec 2023)_  
 The Hong Kong University of Science and Technology, Hong Kong  
 
-- GPA: 4.0/4.3 (Top 5% of the cohort)
+- GPA: 3.84/4.3 (Top 5% of the cohort)
 - Recipient of the [Targeted Taught Postgraduate Programmes Fellowships Scheme](https://www.ugc.edu.hk/eng/ugc/activity/targeted_postgraduate_scheme.html) offered by the Hong Kong Government  
   Award: HK$120,000 / USD$15,600
 - A+ in the graduate project: [Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis](#raster_calculator)
