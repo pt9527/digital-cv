@@ -46,7 +46,7 @@ CS50: Introduction to Computer Science (online), Harvard University |   _2020_ <
 ## 🔬 Projects & Research Experiences
 
 <a id="raster_calculator"></a>
-**Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis** - MSc. Graduate Project _(2022-2023)_ <br>
+[**Multi-Purpose Raster Calculator for Environmental Scientists: A Comprehensive Tool for Spatial Data Analysis (click for presentation slides and demo)**](https://docs.google.com/presentation/d/1s9qBYzLEF6_T-CXlx7VQYHBtnZXPQFl9lOti1FsFo14/edit#slide=id.p) - MSc. Graduate Project _(2022-2023)_ <br>
 _The Hong Kong University of Science and Technology, supervised by [Prof. Jimmy W M CHAN](https://envr.ust.hk/our-division/people/faculty-staff/jimmy.html)_
 
 - Developed a versatile no-code web-based raster calculator that enables environmental professionals to perform raster calculations.
