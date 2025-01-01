@@ -2,7 +2,7 @@
 
 **Environmental Sciences/ GIS/ Data Visualization/ Education** <br>
 
-_Hello, Welcome to my webpage, I am David Chau, a passionate high school Geography teacher with a strong commitment to environmental sciences. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 3.84/4.3 GPA. My academic journey showcased exceptional performance in diverse subjects such as Physical Environment, GIS, and Data Science._
+_Hello, Welcome to my webpage, I am David Chau, a passionate high school Geography teacher with a strong interest in planning. I earned an MSc. in Environmental Science from The Hong Kong University of Science and Technology, achieving a 3.84/4.3 GPA. My academic journey showcased exceptional performance in Human Geography, Environmental Sciences, and GIS._
 
 [E-mail: chauwangfung@gmail.com](chauwangfung@gmail.com) 
 
